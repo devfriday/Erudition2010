@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters>
+    <preferences>
+        <global>
+            <basic_property movieWidth="480" movieHeight="400" html_title="Title" loadStyle="Bar" startAutoPlay="true" continuum="true" backgroundColor="0x005080" hideAdobeMenu="false" photoDynamicShow="true" enableURL="true" transitionArray=""/>
+            <title_property showTitle="true" photoTitleColor="0xff0000" backgroundColor="0xffffff" alpha="50" autoHide="true"/>
+            <music_property path="" stream="true" loop="true"/>
+            <photo_property topPadding="0" bottomPadding="40" leftPadding="0" rightPadding="0"/>
+            <properties enable="true" backgroundColor="0xffffff" backgroundAlpha="30" cssText="a:link{text-decoration: underline;} a:hover{color:#ff0000; text-decoration: none;} a:active{color:#0000ff;text-decoration: none;} .blue {color:#0000ff; font-size:15px; font-style:italic; text-decoration: underline;} .body{color:#ff5500;font-size:20px;}" align="bottom"/>
+        </global>
+        <thumbnail>
+            <basic_property showPrview="true" buttonColor="0xffffff" borderColor="0xffffff" currentBorderColor="0xffffff"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0001.jpg" d_URL="slides/p_0001.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="LabVIEW_Certified_Developer" width="480" height="360"/>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="labview (2)" width="480" height="360"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Blend2AVI" width="480" height="360"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="lab1" width="480" height="360"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="LabView (3)" width="480" height="360"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="Q107INL_p21_LabVIEW%20Zone" width="480" height="360"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="labview" width="480" height="360"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="LabVIEW_weathervi_H" width="480" height="360"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="labview-topic4" width="480" height="360"/>
+        <slide jpegURL="thumbs/t_0010.jpg" d_URL="slides/p_0010.jpg" transition="0" panzoom="1" URLTarget="0" phototime="2" url="" title="ni_labview_ss-sm" width="480" height="360"/>
+        <slide jpegURL="thumbs/t_0011.jpg" d_URL="slides/p_0011.jpg" transition="29" panzoom="1" URLTarget="0" phototime="10" url="http://www.photo-flash-maker.com/" title="Powered by Photo Flash Maker" width="480" height="360"/>
+    </album>
+</flash_parameters>
